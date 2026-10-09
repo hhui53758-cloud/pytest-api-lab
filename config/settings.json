@@ -1,0 +1,13 @@
+{
+  "timeout": 3,
+  "accounts": {
+    "alice": {
+      "username": "alice",
+      "password": "Alice123!"
+    },
+    "bob": {
+      "username": "bob",
+      "password": "Bob123!"
+    }
+  }
+}
